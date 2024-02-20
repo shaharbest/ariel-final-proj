@@ -1,1 +1,3 @@
-# ariel-final-proj
+# Ariel Final Proj
+
+hi ariel students
